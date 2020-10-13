@@ -13,3 +13,7 @@ seaborn
 Folium
 !conda install -c conda-forge folium=0.5.0 --yes
 import folium
+
+Visualization 
+!conda install -c conda-forge pydotplus -y
+!conda install -c conda-forge python-graphviz -y
